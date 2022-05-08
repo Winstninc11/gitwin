@@ -1,0 +1,2 @@
+# gitwin
+store core
